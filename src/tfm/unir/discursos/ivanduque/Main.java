@@ -16,7 +16,6 @@ import org.jsoup.nodes.Element;
  * @author Rafael Guillermo Blanco Banquez <rafaelg.blancob@gmail.com>
  */
 public class Main {
-
     /**
      * @param args the command line arguments
      */
